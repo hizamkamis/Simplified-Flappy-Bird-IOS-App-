@@ -3,7 +3,7 @@ Simplified-Flappy-Bird-IOS-App-
 
 **Description:**
 
-A simplified Flappy Bird IOS game written in C#.
+A simplified Flappy Bird IOS game written in Objective-C.
 
 **Instructions:**
 
